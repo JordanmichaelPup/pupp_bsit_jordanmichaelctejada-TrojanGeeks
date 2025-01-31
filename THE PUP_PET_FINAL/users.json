@@ -1,0 +1,38 @@
+[
+    {
+        "id": 14,
+        "name": "PATHFIT_Finals",
+        "date": "1/27/2025",
+        "location": "PUP Paranaque",
+        "description": "We did our best, even though we didin`t won, but we owe a lot of memories. Including practicing on C5, the day before the finals, night walk with friends after practicing, and etc.",
+        "tags": "#Sucess!",
+        "status": "ended"
+    },
+    {
+        "id": 12,
+        "name": "Mathematics in the Modern World",
+        "date": "1/28/2025",
+        "location": "PUP Paranaque",
+        "description": "Consultation of grades",
+        "tags": "#Nakapasa",
+        "status": "ended"
+    },
+    {
+        "id": 10,
+        "name": "Valentines_Day",
+        "date": "2/14/2025",
+        "location": "Anywhere",
+        "description": "Happy Valentines Day!",
+        "tags": "#Feb_14",
+        "status": "upcoming"
+    },
+    {
+        "id": 15,
+        "name": "CWTS_Passing_of_final_requirements",
+        "date": "1/31/2025",
+        "location": "PUP Paranaque",
+        "description": "Somehow my plant squash survived!",
+        "tags": "#Si-seedlan",
+        "status": "ongoing"
+    }
+]
